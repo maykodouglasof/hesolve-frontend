@@ -13,7 +13,7 @@ import {
   Image,
 } from "./styles";
 
-import logo from "../../assets/images/LogoLJ.png";
+import logo from "../../assets/images/hesolve.png";
 
 export default function Header() {
   const [showDropdown, setShowDropdown] = useState(false);
