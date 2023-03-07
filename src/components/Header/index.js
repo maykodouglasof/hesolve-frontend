@@ -94,8 +94,8 @@ export default function Header() {
 
         <ProfileData showDropdown={showDropdown}>
           <div>
-            <Link to="/signin">Login</Link>
-            <NavLink to="/signup" activeClassName="selected">
+            <Link to="/login">Login</Link>
+            <NavLink to="/cadastrar" activeClassName="selected">
               Cadastrar
             </NavLink>
           </div>
